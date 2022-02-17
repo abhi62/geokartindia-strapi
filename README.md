@@ -1,1 +1,1 @@
-# Strapi application
+## Strapi application
